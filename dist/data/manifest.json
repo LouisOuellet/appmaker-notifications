@@ -1,9 +1,9 @@
 {
-    "build": 196,
+    "build": 1,
     "version": "21.11-dev",
-    "name": "plugins",
+    "name": "notifications",
     "repository": {
-        "name": "appmaker-plugins",
+        "name": "appmaker-notifications",
         "branch": "dev",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
