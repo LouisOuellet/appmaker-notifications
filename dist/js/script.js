@@ -1,7 +1,7 @@
-API.Plugins.notifications = {
+Engine.Plugins.notifications = {
 	init:function(){
-		API.GUI.Navbar.Notification.init();
+		Engine.GUI.Navbar.Notification.init();
 	},
 }
 
-API.Plugins.notifications.init();
+Engine.Plugins.notifications.init();
